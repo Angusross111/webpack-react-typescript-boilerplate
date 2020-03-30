@@ -1,0 +1,11 @@
+# Node Installed Modules
+node_modules/
+
+# Lockfiles
+package-lock.json
+
+# Build dir
+dist/
+
+# Trash dir
+.Trash-1000/
